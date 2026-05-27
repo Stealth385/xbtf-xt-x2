@@ -25,6 +25,7 @@
 * 1× `S Quantum Tube Fab` near `Weapon Component Factory`
 
 ### TODO Family Whi
+
 * 1× `T Sun Oil Refinery`
 
 ## Boron
@@ -37,7 +38,7 @@
 
 * 1× `T Teladianium Foundry`
   
-### TODO Kingdom's End
+### Kingdom's End
 
 * 1× `B BioGas Factory`
 
@@ -60,11 +61,14 @@
 
 * 1× `A Wheat Farm`
 
+### Three Worlds:
+
+* 1× `B Plankton Farm`
+
 ### TODO Three Worlds:
 
 * 1× `A Wheat Farm`
 * 1× `A Rimes Factory`
-* 1× `B Plankton Farm`
 
 ### TODO Power Circle
 
