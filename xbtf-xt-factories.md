@@ -94,10 +94,10 @@
 ### Paranid Prime
 
 * 1× `P Crystal Fab` near `Quantum Tube Factory Alpha`
+* * 1× `P Soyery` near `Soyery Beta`
 
 ### TODO Paranid Prime
 
-* 1× `P Soyery`
 * 1× `T Flower Farm`
 * 1× `T Sun Oil Refinery`
 * 1× `T Teladianium Foundry`
