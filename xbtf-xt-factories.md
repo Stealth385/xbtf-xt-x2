@@ -24,6 +24,9 @@
 
 * 1× `S Quantum Tube Fab` near `Weapon Component Factory`
 
+### TODO Family Whi
+* 1× `T Oil Refinery`
+
 ## Boron
 
 ### Menelaus Frontier
@@ -64,6 +67,7 @@
 
 * 1× `A Wheat Farm`
 * 1× `A Rimes Factory`
+* 1× `B Plankton Farm`
 
 ### TODO Ore Belt:
 
@@ -89,6 +93,9 @@
 * 1× `T Flower Farm`
 * 1× `T Sun Oil Refinery`
 * 1× `T Teladianium Foundry`
+
+### TODO Duke's Domain
+* 1× `B BioGas Factory`
 
 ## TODO ALL
 
