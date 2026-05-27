@@ -108,3 +108,8 @@
 ## TODO ALL
 
 * Test max prices - most can handle `AVG-1`, Sun Oil handles `38 Cr` at most
+
+
+# Big factory setup
+
+https://forum.egosoft.com/viewtopic.php?t=273737 Danthritor post
