@@ -25,7 +25,7 @@
 * 1× `S Quantum Tube Fab` near `Weapon Component Factory`
 
 ### TODO Family Whi
-* 1× `T Oil Refinery`
+* 1× `T Sun Oil Refinery`
 
 ## Boron
 
@@ -68,6 +68,14 @@
 * 1× `A Wheat Farm`
 * 1× `A Rimes Factory`
 * 1× `B Plankton Farm`
+
+### TODO Power Circle
+
+* 1× `Quantum Tube Fab`
+
+### TODO Antigone Memorial
+
+* 1× `A Chip Plant`
 
 ### TODO Ore Belt:
 
