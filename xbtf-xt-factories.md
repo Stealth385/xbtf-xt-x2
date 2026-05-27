@@ -50,9 +50,6 @@
 ### Argon Prime
 
 * 1× `A Wheat Farm` anywhere (possibly 2×)
-
-### TODO Argon Prime
-
 * 1× `A Quantum Tube Fab`
 
 ### Ore Belt
