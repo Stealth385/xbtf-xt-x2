@@ -24,7 +24,7 @@
 
 * 1× `S Quantum Tube Fab` near `Weapon Component Factory`
 
-### TODO Family Whi
+### Family Whi
 
 * 1× `T Sun Oil Refinery`
 
