@@ -14,7 +14,7 @@
 * 2× `T Sun Oil Refinery` near `Flower Farm Alpha`
 * 1× `T Chip Plant` near `Player Oil Refinery`
 
-### TODO Spaceweed Drift
+### Spaceweed Drift
 
 * 1× `T Dream Farm` near any `Solar Power Plant`
 
